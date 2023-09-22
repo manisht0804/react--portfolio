@@ -1,5 +1,7 @@
 # Portfolio App with React
 
+![Web capture_22-9-2023_85954_manishtiwari-portfolio netlify app](https://github.com/manisht0804/react--portfolio/assets/46663132/2aa8988f-5809-4e4d-85f2-439fa00f0c1d)
+
 This tutorial will guide you through the process of creating a portfolio app using Vite and React.
 
 ## Prerequisites
